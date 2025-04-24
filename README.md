@@ -134,10 +134,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [CosmoTech Learning Hub](http://www.clc.ng/)
   No 80 Galadima Aminu way, Jimeta Yola, Adamawa State
-  
 - [BCH HUB](Hub.bch.ng)
-  Bank Road Galadima Aminu way,Opposite Fedilty Bank  Jimeta Yola, Adamawa State
-
+  Bank Road Galadima Aminu way,Opposite Fedilty Bank Jimeta Yola, Adamawa State
 
 ## Akwa Ibom
 
@@ -172,7 +170,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   54 ndidem Usang ISO (Marian) Calabar, Cross River State.
 
 -[Nugi Technologies](https://nugitech.com)
- 77 solomon okpa street, behind uddy King Parliamentary extention Calabar, Cross River State
+77 solomon okpa street, behind uddy King Parliamentary extention Calabar, Cross River State
 
 ## Delta
 
@@ -180,7 +178,7 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   No 1, DBS Junction Okpanam Road, Besides Zenith Bank, Asaba
 - [Warri Innovation Hub](https://www.warriinnovationhub.com)
   3rd floor, Isoken Plaza, Enerhen Junction, Warri.
-  
+
 ## Edo
 
 - [Edo Innovation Hub](https://www.edoinnovates.com/)
@@ -214,17 +212,18 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Oluaka Institute](https://oluakaacademy.org)
   New Owerri, Obinze.
-  
+
   ## Jigawa
+
 - [Startup Jigawa](https://startupjigawa.com.ng)
   97 Nasiriyya House, Along Nuhu Muhammad Sunusi Way, Kasarau Yamma, Dutse, Jigawa.
-  
+
 ## Jos
 
 - [nHub](http://nhubnigeria.com)
   3rd Floor, TAEN Business Complex, Opposite former NITEL Office, Yakubu Gowon Way, Jos.
 - [Govirtual Africa](https://govirtualafrica.com)
-	Opposite Steel Rollin Mill Quarters, Rayfield, Jos
+  Opposite Steel Rollin Mill Quarters, Rayfield, Jos
 
 ## Kaduna
 
@@ -242,10 +241,10 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Alpha HUB](https://ng.africabz.com/kaduna/alpha-hub-430832)
   31A Botswana Road, Barnawa, Kaduna.
-  
+
 ## Katsina
- 
- - [KIRKIRA HUB](https://twitter.com/kirkirahub)
+
+- [KIRKIRA HUB](https://twitter.com/kirkirahub)
   No.2 Mani Road, Mani Road, 820231, Katsina.
 
 ## Kano
@@ -255,10 +254,8 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [StartUp Kano Hub](http://startupkano.com)
    Sahel Garden, StartUp Kano Hub, Beside Azman Filling station, Opposite Al-Yuma House, Maiduguri road, Kano
-   
 - [Shamrock Innovations](http://shamrockinnovations.com.ng/)
    No 35 Lamido Road, Nasarawa G.R.A, Kano, Kano State
-   
 - [DD Hub](https://ddhub.org.ng/)
    No 32B, Zoo Road, Opposite Al-Hamsad tower, Ado Bayero Mall, Kano state, Nigeria.
 
@@ -270,15 +267,13 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Kebbi Innovation and Tech Hub](https://kbithub.business.site/)
    No. 11 Murtala Muhammed Express Way,opposite Central Mosque,Tudun Wada 860001,Birnin Kebbi,Nigeria.
 
-
 ## Kogi
 
 - [GitTech Hub](https://gitechconsults.github.io/gitechonline.com.ng/)
-   No.6B,Salihu Ibrahim Road, Along Government House,Lokoja,Kogi State.
+  No.6B,Salihu Ibrahim Road, Along Government House,Lokoja,Kogi State.
 
 - [MentorBox Hub](https://mentorbox.ng/)
   Suite 19&25, Zabham plaza beside Kogi Amusement Park, along NUJ road, Lokoja.
-
 
 ## Kwara
 
@@ -408,10 +403,13 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 - [Zonetech Park](https://zonetechpark.co/)
   Plot 9 Gbagada Industrial Scheme, Beside UPS, Gbagada Expressway, Lagos State.
 
+- [Nithub](https://nithub.unilag.edu.ng/)
+  University of Lagos, Akoka Yaba, Lagos State.
+
 ## Makurdi
+
 - [Aiivon Innovation Hub](https://hub.aiivon.com/)
   Opposite College of Health Science, Gboko road, Makurdi, Benue state.
-
 
 ## Nasarawa
 
@@ -520,7 +518,6 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
 
 - [Strategic Hub](https://strategichub.net)
   Fonte House (Behind MRS) First Artillery Junction, Aba Road Port Harcourt
-  
 - [Hub10](https://www.hubten.net/)
   5 Chief Ehule Lane, Off Ada George, Port Harcourt
 
@@ -531,6 +528,6 @@ Where are the technology hubs in Nigeria? This is a community project. Pull requ
   Rivers State ICT Center, Airforce, Aba Road, Port Harcourt, Rivers State, Nigeria.
 
 ## Sokoto
-  
+
 - [Startup Sokoto](https://twitter.com/Startupsokoto)
   Sama Road, Mabera Mujaya 840103, Sokoto
